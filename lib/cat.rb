@@ -3,12 +3,12 @@ class Cat
     @name = name
     @mood = "nervous"
   end
-end
 
 def name=(name)
-  @name = name
+  @name = crookshanks
 end
 
 def name
   @name
+end
 end
