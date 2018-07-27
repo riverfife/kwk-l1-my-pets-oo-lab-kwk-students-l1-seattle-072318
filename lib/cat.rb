@@ -13,7 +13,7 @@ def name
 end
 
 def mood=(mood)
-  @mood = "nervous"
+  @mood = nervous
 end
 
 
