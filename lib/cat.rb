@@ -5,4 +5,4 @@ class Cat
   end
 end
 
-@name = "crookshanks"
+@name =(crookshanks)
