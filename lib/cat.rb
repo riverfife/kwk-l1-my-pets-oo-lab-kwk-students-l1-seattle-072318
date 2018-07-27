@@ -4,17 +4,17 @@ class Cat
     @mood = "nervous"
   end
 
-def name=(name)
+ def name=(name)
   @name = crookshanks
-end
+ end
 
-def name
+ def name
   @name
-end
+ end
 
-def mood=(mood)
+ def mood=(mood)
   @mood = nervous
-end
+ end
 
 
 end
