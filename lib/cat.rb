@@ -6,3 +6,4 @@ class Cat
 end
 
 @name =(crookshanks)
+end
